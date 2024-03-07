@@ -1,9 +1,9 @@
-Ola, meu nome é Matheus Ribeiro, estou muito ansioso para aprender a progamar com o github 
+.Ola, meu nome é Matheus Ribeiro, sou estudante da 2°B
 
 
-meus hobbies são: jogar video-games, assistir filmes e ler 
+.Meus hobbies são: jogar video-games, assistir filmes e ler :video_game: :movie_camera: :book:
 
-Meu perfil no instagra: @matheus.rl31
+.Meu perfil no instagra: @matheus.rl31 :camera:
 
 
 ![](https://media1.tenor.com/m/BZDbsKj5VUIAAAAd/lalo-salamanca-lalo.gif)
